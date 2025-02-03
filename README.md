@@ -11,16 +11,16 @@ before you see the results, this is the soundtrack:
 https://www.youtube.com/watch?v=WL31MjoTFDY
 
 see below test image of soldering iron and setup
-![img](solder_setup.jpg)
+![img](solder_setup.JPG)
 
 ![img](solder.png)
 
 and of knurling in an ifixit screwdriver and setup ft. oleg
-![img](setup.jpg) 
+![img](setup.JPG) 
 ![img](knurling.png)
 
 hooray
 
-![img](yay.jpg)
+![img](yay.JPG)
 
 also check out https://deptoffense.space
