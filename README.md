@@ -18,7 +18,11 @@ see below test image of soldering iron and setup (no steppers)
 and of knurling in an ifixit screwdriver and setup ft. oleg (with logan's stepper setup)
 ![img](setup.JPG) 
 ![img](knurling.png)
-![vid](stepping.MP4)
+
+video demo
+https://github.com/user-attachments/assets/36d4e56a-ae74-4b92-9114-49f649db40e9
+
+
 
 hooray
 
