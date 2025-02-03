@@ -10,14 +10,15 @@ set up the crontab etc. uses openGL to render. test scripts send a bouncing ball
 before you see the results, this is the soundtrack:
 https://www.youtube.com/watch?v=WL31MjoTFDY
 
-see below test image of soldering iron and setup
+see below test image of soldering iron and setup (no steppers)
 ![img](solder_setup.JPG)
 
 ![img](solder.png)
 
-and of knurling in an ifixit screwdriver and setup ft. oleg
+and of knurling in an ifixit screwdriver and setup ft. oleg (with logan's stepper setup)
 ![img](setup.JPG) 
 ![img](knurling.png)
+![vid](stepping.MP4)
 
 hooray
 
